@@ -8,7 +8,7 @@ This historic mission was launched from U.S. soil for the first time since the c
 
 The SpaceX Crew Dragon spacecraft carrying NASA astronauts Robert Behnken and Douglas Hurley lifted off at 3:22 p.m. EDT Saturday on the company’s Falcon 9 rocket from Launch Complex 39A at NASA’s Kennedy Space Center in Florida
 
-https://github.com/aradeleke/Astronauts-Background-and-Career/blob/master/static/images/astronauts_space.jpg
+https://github.com/aradeleke/Astronauts-Background-and-Career/commit/59888fbd6bf4adaa40fbf31ce9c72693e53f3dd1
 
 Our Project Topic
 The recent launch inspired us to focus on Astronauts overall career path, origin, gender, major, space missions, flights, and moon walks
